@@ -1,6 +1,6 @@
 # ph-covid19-faceshields
-version tracking for face shields
+Version tracking for face shield designed by Filipinos.
 
-All designs are lifted from "3D Printing For a Cause PH" Facebook group.
-https://www.facebook.com/groups/2831079386941950/
+Most designs are lifted from ["3D Printing For a Cause PH"] Facebook group.
+["3D Printing For a Cause PH"]: https://www.facebook.com/groups/2831079386941950/
 
